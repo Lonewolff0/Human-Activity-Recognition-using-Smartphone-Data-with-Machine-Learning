@@ -6,5 +6,5 @@ The Human Activity Recognition database was built from the recordings of 30 stud
 Use StandardScaler library for data prepocessing.
 # MODEL:
 We can use many models like logistic regression classifier or KNeighborsClassifier or RandomForestClassifier or DecisionTree et...All these models give almost same accuracy.
-I used RandomForsetClassifier.I have droped subject because it has less effect in prediction the activity
+I used RandomForsetClassifier.I have droped subject column because it has less effect in prediction the activity
 
